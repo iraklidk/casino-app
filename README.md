@@ -17,5 +17,5 @@ docker build -t casino-app .
 ```
 #### Run the Docker Container
 ```
-docker run -v D:/[dir]:/[dir] casino-app
+docker run -v D:/[dir]:/data casino-app
 ```
